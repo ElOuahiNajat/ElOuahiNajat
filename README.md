@@ -5,11 +5,6 @@ Currently enhancing my skills in full-stack development with technologies like A
 
 📚 I am always eager to learn new technologies and contribute to meaningful projects.
 
----
-
-## 🔭 Current Projects
-- Developing a hotel reservation system using Spring Boot and Angular  
-- Working on an AI-powered chatbot for medical applications
 
 ---
 
