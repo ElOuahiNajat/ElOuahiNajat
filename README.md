@@ -1,20 +1,36 @@
 # Hi 👋, I'm Najat El Ouahi
 
-ElOuahiNajat
+👩‍💻 I am a passionate software engineer and computer science student specializing in web development and software engineering.  
+Currently enhancing my skills in full-stack development with technologies like Angular, Spring Boot, and Node.js.
 
-👩‍💻 All of my projects are available on my GitHub repositories
-
-📄 Know about my experiences here:  
-https://github.com/ElOuahiNajat
-
-Connect with me:  
-https://www.linkedin.com/in/najat-el-ouahi/  
-https://www.instagram.com/najat_______el/
+📚 I am always eager to learn new technologies and contribute to meaningful projects.
 
 ---
 
-### Languages and Tools:
-`azure` `c` `docker` `express` `git` `grafana` `java` `javascript` `mongodb` `mssql` `mysql` `nextjs` `nodejs` `oracle` `postgresql` `python` `react` `reactnative` `spring` `tailwind` `typescript` `python`
+## 🔭 Current Projects
+- Developing a hotel reservation system using Spring Boot and Angular  
+- Working on an AI-powered chatbot for medical applications
+
+---
+
+## 🌱 Skills & Technologies
+- **Languages:** Java, Python, JavaScript, TypeScript, C#  
+- **Frontend:** Angular, React, HTML5, CSS3, Tailwind CSS  
+- **Backend:** Spring Boot, Node.js, Express  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Tools & Platforms:** Git, Docker, Kubernetes, Azure, Jenkins, Firebase
+
+---
+
+## 📫 Connect with me
+- LinkedIn: [https://www.linkedin.com/in/najat-el-ouahi/](https://www.linkedin.com/in/najat-el-ouahi/)  
+- Instagram: [https://www.instagram.com/najat_______el/](https://www.instagram.com/najat_______el/)  
+- GitHub: [https://github.com/ElOuahiNajat](https://github.com/ElOuahiNajat)
+
+---
+
+## ⚡ Fun fact
+I love combining creativity and technology to build impactful solutions that make everyday life easier!
 
 ---
 
