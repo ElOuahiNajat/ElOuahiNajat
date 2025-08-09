@@ -14,7 +14,7 @@ https://www.instagram.com/najat_______el/
 ---
 
 ### Languages and Tools:
-`azure` `c` `cplusplus` `csharp` `docker` `express` `firebase` `git` `grafana` `java` `javascript` `jenkins` `kafka` `kubernetes` `linux` `mongodb` `mssql` `mysql` `nextjs` `nodejs` `oracle` `postgresql` `python` `react` `reactnative` `spring` `tailwind` `typescript` `unity`
+`azure` `c` `docker` `express` `git` `grafana` `java` `javascript` `mongodb` `mssql` `mysql` `nextjs` `nodejs` `oracle` `postgresql` `python` `react` `reactnative` `spring` `tailwind` `typescript` `python`
 
 ---
 
