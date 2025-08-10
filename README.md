@@ -8,7 +8,7 @@ Currently enhancing my skills in full-stack development with technologies like A
 
 ---
 
-## 🌱 Skills & Technologies
+##  Skills & Technologies
 - **Languages:** Java, Python, JavaScript, TypeScript, C#  
 - **Frontend:** Angular, React, HTML5, CSS3, Tailwind CSS  
 - **Backend:** Spring Boot, Node.js, Express  
@@ -24,7 +24,7 @@ Currently enhancing my skills in full-stack development with technologies like A
 
 ---
 
-## ⚡ Fun fact
+##  Fun fact
 I love combining creativity and technology to build impactful solutions that make everyday life easier!
 
 ---
